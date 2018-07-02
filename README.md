@@ -9,6 +9,6 @@ the contact info at http://www.lightandmatter.com/area4author.html ,
 or post a comment on mountainproject.
 
 For topos in the traditional line-diagram style, see
-github.com/bcrowell/tahquitz .
+http://github.com/bcrowell/tahquitz .
 
 Ben Crowell
