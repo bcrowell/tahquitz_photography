@@ -17,7 +17,16 @@ way to get those is from the relevant pages on Wikimedia Commons
 or Mountainproject:
 
 * https://commons.wikimedia.org/wiki/Category:Tahquitz
-* https://www.mountainproject.com/user/107962596/ben-crowell/photos
+* https://www.mountainproject.com/photo/114546196/photo-topo-of-jensens-jaunt
+* https://www.mountainproject.com/photo/113847819/overview-of-the-west-face-of-tahquitz-rock-showing-some-routes
+* https://www.mountainproject.com/photo/113785029/overview-of-tahquitz-rock-from-the-northeast-with-some-routes-and-features-label
+* https://www.mountainproject.com/photo/113771532/photo-with-the-route-of-angels-fright-at-tahquitz-rock-drawn-on-top
+* https://www.mountainproject.com/photo/113764212/photo-showing-the-location-of-the-trough-in-relation-to-the-whole-rock-the-route
+* https://www.mountainproject.com/photo/113764199/photo-of-the-trough-with-lines-drawn-on-it-showing-the-route
+* https://www.mountainproject.com/photo/113763934/photo-of-white-maidens-walkaway-with-the-route-drawn-on-it-you-can-either-start-
+* https://www.mountainproject.com/photo/113763777/suicide-rock-seen-from-devils-slide
+* https://www.mountainproject.com/photo/113745045/west-face-of-tahquitz-rock-seen-from-the-highway-near-pine-cove
+* https://www.mountainproject.com/photo/113745010/photo-of-tahquitz-rock-with-the-fingertip-traverse-route-drawn-on-top-the-photo-
 
 For topos in the traditional line-diagram style, see:
 
