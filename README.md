@@ -22,6 +22,7 @@ or Mountainproject:
 * Angel's Fright: https://www.mountainproject.com/photo/113771532/photo-with-the-route-of-angels-fright-at-tahquitz-rock-drawn-on-top
 * Fingertip Traverse: https://www.mountainproject.com/photo/113745010/photo-of-tahquitz-rock-with-the-fingertip-traverse-route-drawn-on-top-the-photo-
 * Jensen's Jaunt: https://www.mountainproject.com/photo/114546196/photo-topo-of-jensens-jaunt
+* Left Ski Track: https://www.mountainproject.com/photo/116735326/photo-topo-of-left-ski-track-at-tahquitz-photo-by-derek-shirk-topo-by-ben-crowel
 * The Trough (location): https://www.mountainproject.com/photo/113764212/photo-showing-the-location-of-the-trough-in-relation-to-the-whole-rock-the-route
 * The Trough: https://www.mountainproject.com/photo/113764199/photo-of-the-trough-with-lines-drawn-on-it-showing-the-route
 * White Maiden's Walkaway: https://www.mountainproject.com/photo/113763934/photo-of-white-maidens-walkaway-with-the-route-drawn-on-it-you-can-either-start-

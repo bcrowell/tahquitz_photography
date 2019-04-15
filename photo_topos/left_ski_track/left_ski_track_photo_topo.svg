@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="left_ski_track_photo_topo.svg">
+   sodipodi:docname="left_ski_track_photo_topo.svg"
+   inkscape:export-filename="/home/bcrowell/Tahquitz_photography/tahquitz_photography/photo_topos/left_ski_track/left_ski_track_photo_topo.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8470878"
-     inkscape:cx="149.78063"
+     inkscape:cx="173.72614"
      inkscape:cy="883.75905"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -57,12 +60,12 @@
     <image
        sodipodi:absref="/home/bcrowell/Tahquitz_photography/tahquitz_photography/photo_topos/left_ski_track/left_ski_track_bitmap.jpg"
        xlink:href="left_ski_track_bitmap.jpg"
-       y="22.619516"
-       x="22.793476"
-       id="image877"
-       preserveAspectRatio="none"
+       width="66.293999"
        height="87.630005"
-       width="66.293999" />
+       preserveAspectRatio="none"
+       id="image877"
+       x="22.793476"
+       y="22.619516" />
     <path
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ed0000;stroke-width:0.49399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.48199993, 1.48199993;stroke-dashoffset:0;stroke-opacity:1"
        d="M 49.633179,101.99314 36.275615,84.092647 39.326835,73.379475 c 0,0 8.543417,-2.23756 8.814636,-4.949757 0.271219,-2.712196 -5.085368,-9.6961 -5.085368,-9.6961 l -1.360782,-3.843734"
