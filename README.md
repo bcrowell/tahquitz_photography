@@ -20,6 +20,7 @@ or Mountainproject:
 * overview of west side: https://www.mountainproject.com/photo/113847819/overview-of-the-west-face-of-tahquitz-rock-showing-some-routes
 * overview of north side: https://www.mountainproject.com/photo/113785029/overview-of-tahquitz-rock-from-the-northeast-with-some-routes-and-features-label
 * Angel's Fright: https://www.mountainproject.com/photo/113771532/photo-with-the-route-of-angels-fright-at-tahquitz-rock-drawn-on-top
+* The Error and Sahara Terror: https://www.mountainproject.com/photo/117043312
 * Fingertip Traverse: https://www.mountainproject.com/photo/113745010/photo-of-tahquitz-rock-with-the-fingertip-traverse-route-drawn-on-top-the-photo-
 * Jensen's Jaunt: https://www.mountainproject.com/photo/114546196/photo-topo-of-jensens-jaunt
 * Left Ski Track: https://www.mountainproject.com/photo/116735326/photo-topo-of-left-ski-track-at-tahquitz-photo-by-derek-shirk-topo-by-ben-crowel
